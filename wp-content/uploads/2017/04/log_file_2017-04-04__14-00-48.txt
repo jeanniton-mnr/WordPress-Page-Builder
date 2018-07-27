@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.tekninov.com/rejes
+Data file = /home/servicepublic/public_html/rejes/wp-content/themes/granted-champtheme//inc/demo-contents/granted-demo-content.xml
+Widget file = not defined!
+Customizer file = /home/servicepublic/public_html/rejes/wp-content/themes/granted-champtheme//inc/demo-contents/granted-demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "09-Team-Member" (Fichier média)
+[ERROR] Failed to import "09-Teamcc-Member" (Fichier média)
+[ERROR] Failed to import "bb" (Fichier média)
+[ERROR] Failed to import "bb" (Fichier média)
+[ERROR] Failed to import "gggg" (Fichier média)
+[ERROR] Failed to import "dd yy" (Fichier média)
+[ERROR] Failed to import "09-Team-Member" (Fichier média)
+[ERROR] Failed to import "vbdddfdd" (Fichier média)
+
+
+---Importing customizer settings---
+Customizer settings import finished!

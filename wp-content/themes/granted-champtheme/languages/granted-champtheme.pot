@@ -1,0 +1,804 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-12 05:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:44
+msgid "Primary"
+msgstr ""
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:89
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:97
+msgid "Project sidebar"
+msgstr ""
+
+#: functions.php:99
+msgid "Add project sidebars here."
+msgstr ""
+
+#: functions.php:107
+msgid "Footer widgets"
+msgstr ""
+
+#: functions.php:109
+msgid "Add footer widgets here."
+msgstr ""
+
+#: functions.php:208
+msgid "Demo Import 1"
+msgstr ""
+
+#: functions.php:211
+msgid ""
+"After import demo, just set static homepage from settings > reading, check "
+"widgets & menus. You will be done! :-)"
+msgstr ""
+
+#: index.php:21 index.php:24
+msgid "Blog"
+msgstr ""
+
+#: index.php:22 search.php:16
+msgid "Home"
+msgstr ""
+
+#: footer.php:35
+msgid "Designed &amp; developed by champtheme"
+msgstr ""
+
+#: single.php:90
+msgid "thumbnail loading"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found"
+msgstr ""
+
+#: 404.php:32
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:52
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:71
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: search.php:15
+msgid "Search Result"
+msgstr ""
+
+#: inc/template-tags.php:79
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:97 inc/template-tags.php:104
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:99
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:106
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: inc/template-tags.php:116 template-parts/content-page.php:30
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: inc/theme-style.php:14 inc/theme-style.php:29
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/metabox-and-options.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:25
+msgid "granted theme options by champtheme"
+msgstr ""
+
+#: inc/metabox-and-options.php:40
+msgid "Header"
+msgstr ""
+
+#: inc/metabox-and-options.php:46
+msgid "Enable header top?"
+msgstr ""
+
+#: inc/metabox-and-options.php:47
+msgid "If you want to enable header top, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:89
+msgid "Type social link"
+msgstr ""
+
+#: inc/metabox-and-options.php:99
+msgid "Logos"
+msgstr ""
+
+#: inc/metabox-and-options.php:105
+msgid "Favicon"
+msgstr ""
+
+#: inc/metabox-and-options.php:106
+msgid "Upload favicon image. Favicon image should be square sized image."
+msgstr ""
+
+#: inc/metabox-and-options.php:111
+msgid "Enable text logo?"
+msgstr ""
+
+#: inc/metabox-and-options.php:112
+msgid "If you want to enable text logo, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:118
+msgid "Logo"
+msgstr ""
+
+#: inc/metabox-and-options.php:119
+msgid "Upload site logo."
+msgstr ""
+
+#: inc/metabox-and-options.php:125
+msgid "granted"
+msgstr ""
+
+#: inc/metabox-and-options.php:126
+msgid "Logo text"
+msgstr ""
+
+#: inc/metabox-and-options.php:127
+msgid "Type logo text here."
+msgstr ""
+
+#: inc/metabox-and-options.php:137
+msgid "Typography"
+msgstr ""
+
+#: inc/metabox-and-options.php:143
+msgid "Body font"
+msgstr ""
+
+#: inc/metabox-and-options.php:144
+msgid "Select body google font & font weight."
+msgstr ""
+
+#: inc/metabox-and-options.php:154
+msgid "Headding font"
+msgstr ""
+
+#: inc/metabox-and-options.php:160
+msgid "Select headding google font & font weight."
+msgstr ""
+
+#: inc/metabox-and-options.php:167
+msgid "Styling"
+msgstr ""
+
+#: inc/metabox-and-options.php:174
+msgid "Proloader"
+msgstr ""
+
+#: inc/metabox-and-options.php:175
+msgid "If you want to enable preloader, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:181
+msgid "Enable boxedd layout"
+msgstr ""
+
+#: inc/metabox-and-options.php:182
+msgid "If you want to enable boxed layout, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:187
+msgid "Body background image"
+msgstr ""
+
+#: inc/metabox-and-options.php:188
+msgid ""
+"Upload body background image, If you upload a bigger image, do not forget to "
+"select background repeat as cover."
+msgstr ""
+
+#: inc/metabox-and-options.php:194
+msgid "Body background attachment"
+msgstr ""
+
+#: inc/metabox-and-options.php:195
+msgid "Select background attachment."
+msgstr ""
+
+#: inc/metabox-and-options.php:197
+msgid "Scroll"
+msgstr ""
+
+#: inc/metabox-and-options.php:198
+msgid "Fixed"
+msgstr ""
+
+#: inc/metabox-and-options.php:205
+msgid "Choose theme primary color."
+msgstr ""
+
+#: inc/metabox-and-options.php:206
+msgid "Theme color"
+msgstr ""
+
+#: inc/metabox-and-options.php:212
+msgid "Choose secondary button background color."
+msgstr ""
+
+#: inc/metabox-and-options.php:213
+msgid "Secondary button background color"
+msgstr ""
+
+#: inc/metabox-and-options.php:219
+msgid "Choose secondary button text color."
+msgstr ""
+
+#: inc/metabox-and-options.php:220
+msgid "Secondary button text color"
+msgstr ""
+
+#: inc/metabox-and-options.php:229
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/metabox-and-options.php:236
+msgid "Display post by?"
+msgstr ""
+
+#: inc/metabox-and-options.php:237
+msgid ""
+"If you want to show posted by name on blog index page and single blog, "
+"select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:243
+msgid "Display post date?"
+msgstr ""
+
+#: inc/metabox-and-options.php:244
+msgid ""
+"If you want to show blog post date on blog index page and single blog, "
+"select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:250
+msgid "Display comment count?"
+msgstr ""
+
+#: inc/metabox-and-options.php:251
+msgid "If you want to show comment count on blog index page, select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:257
+msgid "Display posted in categories?"
+msgstr ""
+
+#: inc/metabox-and-options.php:258
+msgid ""
+"If you want to show blog category on blog index page and single blog, select "
+"on"
+msgstr ""
+
+#: inc/metabox-and-options.php:264
+msgid "Display posted in tags?"
+msgstr ""
+
+#: inc/metabox-and-options.php:265
+msgid ""
+"If you want to show blog tags on blog index page and single blog, select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:271
+msgid "Enable next previous link on single post?"
+msgstr ""
+
+#: inc/metabox-and-options.php:272
+msgid "If you want to show next previous links on single blog, select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:279
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/metabox-and-options.php:285
+msgid "Footer bottom background color"
+msgstr ""
+
+#: inc/metabox-and-options.php:287
+msgid "Select footer copyright area background color"
+msgstr ""
+
+#: inc/metabox-and-options.php:292
+msgid "Footer copyright color"
+msgstr ""
+
+#: inc/metabox-and-options.php:294
+msgid "Select footer copyright area text color"
+msgstr ""
+
+#: inc/metabox-and-options.php:299
+msgid "Footer copyright text"
+msgstr ""
+
+#: inc/metabox-and-options.php:300
+msgid "Type copyright text here"
+msgstr ""
+
+#: inc/metabox-and-options.php:316
+msgid "Page Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:327
+msgid "Enable page title bar?"
+msgstr ""
+
+#: inc/metabox-and-options.php:328
+msgid "If you want to display page title bar, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:338
+msgid "Project Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:374
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:385
+msgid "Author position or address"
+msgstr ""
+
+#: inc/metabox-and-options.php:386
+msgid "Type author position or address. It will display below the author name."
+msgstr ""
+
+#: inc/metabox-and-options.php:395
+msgid "Slide Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:406
+msgid "Buttons"
+msgstr ""
+
+#: inc/metabox-and-options.php:407
+msgid "Add slide buttons here."
+msgstr ""
+
+#: inc/metabox-and-options.php:408 inc/metabox-and-options.php:409
+msgid "Add New button"
+msgstr ""
+
+#: inc/metabox-and-options.php:414
+msgid "Button type"
+msgstr ""
+
+#: inc/metabox-and-options.php:415
+msgid "Select button type"
+msgstr ""
+
+#: inc/metabox-and-options.php:418
+msgid "Filled button"
+msgstr ""
+
+#: inc/metabox-and-options.php:419
+msgid "Bordered button"
+msgstr ""
+
+#: inc/metabox-and-options.php:425
+msgid "Button text"
+msgstr ""
+
+#: inc/metabox-and-options.php:426
+msgid "Type button text"
+msgstr ""
+
+#: inc/metabox-and-options.php:431
+msgid "Button link to"
+msgstr ""
+
+#: inc/metabox-and-options.php:432
+msgid "Select button link source."
+msgstr ""
+
+#: inc/metabox-and-options.php:435
+msgid "Page"
+msgstr ""
+
+#: inc/metabox-and-options.php:436
+msgid "External link"
+msgstr ""
+
+#: inc/metabox-and-options.php:443
+msgid "Select page"
+msgstr ""
+
+#: inc/metabox-and-options.php:444
+msgid "Select button link to page."
+msgstr ""
+
+#: inc/metabox-and-options.php:450
+msgid "Link"
+msgstr ""
+
+#: inc/metabox-and-options.php:451
+msgid "Type button external link"
+msgstr ""
+
+#: inc/metabox-and-options.php:457
+msgid "Links open in"
+msgstr ""
+
+#: inc/metabox-and-options.php:458
+msgid "Select button link behabour."
+msgstr ""
+
+#: inc/metabox-and-options.php:461
+msgid "Same tab"
+msgstr ""
+
+#: inc/metabox-and-options.php:462
+msgid "New tab"
+msgstr ""
+
+#: inc/metabox-and-options.php:471
+msgid "Enable video popup?"
+msgstr ""
+
+#: inc/metabox-and-options.php:472
+msgid "Select on if you want to enable video popup in slide."
+msgstr ""
+
+#: inc/metabox-and-options.php:477
+msgid "Video link"
+msgstr ""
+
+#: inc/metabox-and-options.php:478
+msgid "Type youtube or vimeo video link"
+msgstr ""
+
+#: inc/metabox-and-options.php:484
+msgid "Video poup link text"
+msgstr ""
+
+#: inc/metabox-and-options.php:485
+msgid "Watch video"
+msgstr ""
+
+#: inc/metabox-and-options.php:486
+msgid "Type video popup link text"
+msgstr ""
+
+#: inc/required-plugins.php:12
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/required-plugins.php:18
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/required-plugins.php:24
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/required-plugins.php:30
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/required-plugins.php:37
+msgid "granted Toolkit"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:76
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:81 template-parts/content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:86
+msgid "Read more"
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:32
+#: inc/cs-framework/fields/typography/typography.php:107
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:82
+#: inc/cs-framework/fields/icon/icon.php:25
+msgid "Add Icon"
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: inc/cs-framework/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:371
+#: inc/cs-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:375
+msgid "show all options"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:131
+#: inc/cs-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:82
+#: inc/cs-framework/classes/shortcode.class.php:90
+#: inc/cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: inc/cs-framework/fields/background/background.php:34
+#: inc/cs-framework/fields/background/background.php:35
+#: inc/cs-framework/fields/upload/upload.php:23
+#: inc/cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: inc/cs-framework/fields/background/background.php:36
+#: inc/cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: inc/cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: inc/cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: inc/cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/cs-framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: inc/cs-framework/fields/group/group.php:43
+#: inc/cs-framework/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: inc/cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: inc/cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: inc/cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: inc/cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: inc/cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#. Name of the theme
+msgid "Granted champtheme"
+msgstr ""
+
+#. Description of the theme
+msgid "champtheme WordPress theme"
+msgstr ""
+
+#. URI of the theme
+msgid "http://champtheme.com/demos/wp/granted"
+msgstr ""
+
+#. Author of the theme
+msgid "ChampTheme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://champtheme.com"
+msgstr ""

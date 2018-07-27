@@ -1,0 +1,681 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-12 04:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: granted-toolkit.php:45
+msgid "All category"
+msgstr ""
+
+#: granted-toolkit.php:85
+msgid "-- Select slide --"
+msgstr ""
+
+#: granted-toolkit.php:104
+msgid "-- Select post --"
+msgstr ""
+
+#: granted-toolkit.php:124
+msgid "-- Select page --"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:10
+msgid "Testimonials"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:13 vc-blocks/vc-slides.php:10
+#: vc-blocks/vc-section-title.php:12 vc-blocks/vc-iconic-btn.php:12
+#: vc-blocks/vc-logo-carousel.php:10 vc-blocks/vc-posts.php:9
+#: vc-blocks/vc-projects.php:12 vc-blocks/vc-video-popup.php:10
+#: vc-blocks/vc-iconic-info.php:12 vc-blocks/vc-cta.php:12
+#: vc-blocks/vc-team.php:10 vc-blocks/vc-service-box.php:10
+msgid "granted"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:17
+msgid "Type"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:24
+msgid "Select how testimonials will appear."
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:28 vc-blocks/vc-posts.php:14
+msgid "Columns"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:31
+msgid "Type how many columns you want to show. Number only"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:35 vc-blocks/vc-logo-carousel.php:20
+msgid "Count"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:38
+msgid "Type how many testimonials you want to show. Type -1 for show all."
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:53 vc-blocks/vc-slides.php:81
+#: vc-blocks/vc-logo-carousel.php:89
+msgid "Autoplay?"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:64
+msgid "Select how many column you want to show."
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:68 vc-blocks/vc-slides.php:96
+#: vc-blocks/vc-logo-carousel.php:100
+msgid "Autoplay time"
+msgstr ""
+
+#: vc-blocks/vc-testimonials.php:83
+msgid "Select autoplay time"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:7
+msgid "Slides"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:14
+msgid "Slides count"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:16 vc-blocks/vc-posts.php:16
+#: vc-blocks/vc-posts.php:30
+msgid "3"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:29
+msgid "How many slide you want to show?"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:33
+msgid "Height"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:36
+msgid "Type slider height in number."
+msgstr ""
+
+#: vc-blocks/vc-slides.php:40
+msgid "Select slide"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:43
+msgid "Click here if you dont know slide ID."
+msgstr ""
+
+#: vc-blocks/vc-slides.php:51 vc-blocks/vc-logo-carousel.php:67
+msgid "Show arrows?"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:53 vc-blocks/vc-slides.php:83
+#: vc-blocks/vc-logo-carousel.php:69 vc-blocks/vc-logo-carousel.php:91
+msgid "true"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:58 vc-blocks/vc-logo-carousel.php:74
+msgid "If you want visible slide arrows then select Yes"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:66 vc-blocks/vc-logo-carousel.php:78
+msgid "Show dots?"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:68 vc-blocks/vc-logo-carousel.php:80
+msgid "false"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:73 vc-blocks/vc-logo-carousel.php:85
+msgid "Appear slides dot"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:88 vc-blocks/vc-logo-carousel.php:96
+msgid "If you want enable slides autoplay, select yes"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:98 vc-blocks/vc-logo-carousel.php:102
+msgid "5000"
+msgstr ""
+
+#: vc-blocks/vc-slides.php:111 vc-blocks/vc-logo-carousel.php:115
+msgid "Select autoplay time.."
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:11
+msgid "01 - Granted Homepage"
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:32
+msgid "01 - Granted About"
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:60
+msgid "03 - Granted Team"
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:73
+msgid "04 - Granted Projects"
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:86
+msgid "05 - Granted Services"
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:99
+msgid "06 - Granted Single service"
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:112
+msgid "07 - Granted Testimonials"
+msgstr ""
+
+#: vc-blocks/vc-template-loader.php:125
+msgid "08 - Granted Contact"
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:9
+msgid "Section title"
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:16 vc-blocks/vc-projects.php:69
+msgid "Style"
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:18 vc-blocks/vc-iconic-btn.php:30
+#: vc-blocks/vc-posts.php:63 vc-blocks/vc-posts.php:74
+#: vc-blocks/vc-projects.php:44 vc-blocks/vc-projects.php:55
+#: vc-blocks/vc-projects.php:71 vc-blocks/vc-cta.php:44
+#: vc-blocks/vc-service-box.php:22 vc-blocks/vc-service-box.php:66
+msgid "1"
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:24
+msgid "Select section title style."
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:28 vc-blocks/vc-service-box.php:31
+msgid "Image"
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:30
+msgid "Upload image here."
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:38 vc-blocks/vc-cta.php:16
+#: vc-blocks/vc-team.php:20 vc-blocks/vc-service-box.php:14
+msgid "Title"
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:40
+msgid "Type section title.."
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:44 vc-blocks/vc-cta.php:22
+#: vc-blocks/vc-service-box.php:51
+msgid "Description"
+msgstr ""
+
+#: vc-blocks/vc-section-title.php:46
+msgid "write about section title"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:9
+msgid "Iconic Button"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:16 vc-blocks/vc-iconic-info.php:16
+#: vc-blocks/vc-team.php:37 vc-blocks/vc-service-box.php:41
+msgid "Select icon"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:18
+msgid "Select icon for button."
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:22
+msgid "Buttont text"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:24
+msgid "Type button text"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:28 vc-blocks/vc-cta.php:42
+#: vc-blocks/vc-service-box.php:64
+msgid "Link to"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:32 vc-blocks/vc-cta.php:46
+msgid "Page"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:33 vc-blocks/vc-cta.php:47
+msgid "External link"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:35 vc-blocks/vc-cta.php:49
+msgid ""
+"If you want to select page or external any link for cta button. Select your "
+"choice"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:39 vc-blocks/vc-cta.php:53
+#: vc-blocks/vc-service-box.php:75
+msgid "Select page"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:42
+msgid "You are able to select a page for linking into the button..."
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:50 vc-blocks/vc-cta.php:64
+#: vc-blocks/vc-team.php:43 vc-blocks/vc-service-box.php:86
+msgid "Link"
+msgstr ""
+
+#: vc-blocks/vc-iconic-btn.php:52 vc-blocks/vc-cta.php:66
+msgid "Enter CTA button external link here.."
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:7
+msgid "Logo carousel"
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:14
+msgid "Logos"
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:16
+msgid "Upload logos."
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:34
+msgid "Select logo display count."
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:38
+msgid "Tablet Count"
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:50
+msgid "Select tablet device logo display count."
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:54
+msgid "Mobile Count"
+msgstr ""
+
+#: vc-blocks/vc-logo-carousel.php:63
+msgid "Select mobile device logo display count."
+msgstr ""
+
+#: vc-blocks/vc-posts.php:7
+msgid "Posts block"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:24
+msgid "Select post column"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:28
+msgid "Posts count"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:41
+msgid "Unlimited"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:43
+msgid "How many posts you want to show?"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:47
+msgid "Select category"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:50
+msgid "Select post category"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:54
+msgid "Read more link text"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:56
+msgid "Read more"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:57
+msgid "Type link text here"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:61
+msgid "Show post date?"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:65 vc-blocks/vc-posts.php:76
+#: vc-blocks/vc-projects.php:47
+msgid "Yes"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:66 vc-blocks/vc-posts.php:77
+#: vc-blocks/vc-projects.php:46
+msgid "No"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:68
+msgid "Show or hide post date"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:72
+msgid "Show author?"
+msgstr ""
+
+#: vc-blocks/vc-posts.php:79
+msgid "Show or hide post author name"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:9
+msgid "Projects"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:16
+msgid "Projects count"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:18
+msgid "12"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:19
+msgid "How many projects you want to show?"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:23
+msgid "Projects columns"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:25
+msgid "4"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:31
+msgid "How many column do u want to use on portgranted.."
+msgstr ""
+
+#: vc-blocks/vc-projects.php:35
+msgid "Load more text"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:37 theme-shortcodes/projects-shortcode.php:159
+msgid "Load more"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:38
+msgid "Type project more button text."
+msgstr ""
+
+#: vc-blocks/vc-projects.php:42
+msgid "Enable filter?"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:49
+msgid "If you want to enable project filter, select yes."
+msgstr ""
+
+#: vc-blocks/vc-projects.php:53
+msgid "Filter Style"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:57
+msgid "Right align"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:58
+msgid "Left align"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:59
+msgid "Center align"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:61 vc-blocks/vc-projects.php:77
+msgid "Select a style for projects."
+msgstr ""
+
+#: vc-blocks/vc-projects.php:73
+msgid "Style 1"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:74
+msgid "Style 2"
+msgstr ""
+
+#: vc-blocks/vc-projects.php:75
+msgid "Style 3"
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:7
+msgid "Video popup box"
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:14
+msgid "Video URL"
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:16
+msgid "Type video URL"
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:20
+msgid "Video thumbnail"
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:22
+msgid "Upload video thumbnail."
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:26
+msgid "Video text"
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:27
+#: theme-shortcodes/video-popup-shortcode.php:10
+msgid "Watch video"
+msgstr ""
+
+#: vc-blocks/vc-video-popup.php:29
+msgid "Type video text"
+msgstr ""
+
+#: vc-blocks/vc-iconic-info.php:9
+msgid "Iconic Info"
+msgstr ""
+
+#: vc-blocks/vc-iconic-info.php:18
+msgid "Select icon for box."
+msgstr ""
+
+#: vc-blocks/vc-iconic-info.php:22
+msgid "Box info"
+msgstr ""
+
+#: vc-blocks/vc-iconic-info.php:24
+msgid "Type box info"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:9
+msgid "Call to action"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:18
+msgid "Type your CTA title"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:24
+msgid "Type your CTA description"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:28
+msgid "Text color"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:31
+msgid "Select CTA text color"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:35 vc-blocks/vc-service-box.php:57
+msgid "Link text"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:37 theme-shortcodes/cta-shortcode.php:11
+msgid "Contact us today"
+msgstr ""
+
+#: vc-blocks/vc-cta.php:38
+msgid "Type CTA link text here.."
+msgstr ""
+
+#: vc-blocks/vc-cta.php:56
+msgid "You are able to select a page for linking into the CTA button..."
+msgstr ""
+
+#: vc-blocks/vc-team.php:7
+msgid "Team"
+msgstr ""
+
+#: vc-blocks/vc-team.php:14
+msgid "Photo"
+msgstr ""
+
+#: vc-blocks/vc-team.php:16
+msgid "Upload team photo.."
+msgstr ""
+
+#: vc-blocks/vc-team.php:22
+msgid "Type team name or team title"
+msgstr ""
+
+#: vc-blocks/vc-team.php:26
+msgid "Designation"
+msgstr ""
+
+#: vc-blocks/vc-team.php:28
+msgid "Write team designation"
+msgstr ""
+
+#: vc-blocks/vc-team.php:32
+msgid "Social Links"
+msgstr ""
+
+#: vc-blocks/vc-team.php:39
+msgid "Select an icon for team social links"
+msgstr ""
+
+#: vc-blocks/vc-team.php:45
+msgid "http://"
+msgstr ""
+
+#: vc-blocks/vc-team.php:46
+msgid "Enter team social profile link"
+msgstr ""
+
+#: vc-blocks/vc-team.php:49
+msgid "Add stuff social link"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:7
+msgid "Service box"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:16
+msgid "Type your service title"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:20
+msgid "Image type"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:27
+msgid "Select service box icon type"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:37 vc-blocks/vc-service-box.php:47
+msgid "Upload your service box icon here"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:53
+msgid "Type your service description here"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:59
+#: theme-shortcodes/service-box-shortcode.php:10
+msgid "View details"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:60
+msgid "Type link text"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:71
+msgid "Select your button link type"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:78
+msgid "Select your page"
+msgstr ""
+
+#: vc-blocks/vc-service-box.php:88
+msgid "Type your external link here"
+msgstr ""
+
+#: theme-shortcodes/projects-shortcode.php:22
+msgid "I don't know what happened, but there is an error!"
+msgstr ""
+
+#: theme-shortcodes/projects-shortcode.php:105
+#: theme-shortcodes/projects-shortcode.php:302
+msgid "thumbnail loading"
+msgstr ""
+
+#: theme-shortcodes/projects-shortcode.php:224
+msgid "All"
+msgstr ""
+
+#: theme-shortcodes/projects-shortcode.php:392
+msgid "No more projects available"
+msgstr ""
+
+#. Name of the plugin
+msgid "Granted Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin required for granted WP theme"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.champtheme.com/demos/wp/granted"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChampTheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.champtheme.com/"
+msgstr ""
